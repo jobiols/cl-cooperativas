@@ -53,6 +53,8 @@
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-cooperativas', 'branch': '9.0'},
         {'usr': 'marionumza', 'repo': 'odoo-coop', 'branch': 'master'},
+        {'usr': 'marionumza', 'repo': 'vertical-cooperative', 'branch': '9.0'},
+
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '9.0'},
 
         {'usr': 'ingadhoc', 'repo': 'odoo-argentina', 'branch': '9.0'},
