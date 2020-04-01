@@ -76,7 +76,6 @@
         {'usr': 'oca', 'repo': 'web', 'branch': '9.0'},
         {'usr': 'oca', 'repo': 'server-tools', 'branch': '9.0'},
         {'usr': 'oca', 'repo': 'social', 'branch': '9.0'},
-        {'usr': 'oca', 'repo': 'server-brand', 'branch': '9.0'},
         {'usr': 'oca', 'repo': 'manufacture', 'branch': '9.0'},
         {'usr': 'oca', 'repo': 'manufacture-reporting', 'branch': '9.0'},
         {'usr': 'oca', 'repo': 'management-system', 'branch': '9.0'},
